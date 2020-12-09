@@ -1,5 +1,5 @@
 # RYU-Docker
-The RYU controller pre-installed to be used as an image file for Docker.
+The RYU controller is pre-installed to be used as an image file for Docker.
 
 OS: Ubuntu:latest Docker image
 
